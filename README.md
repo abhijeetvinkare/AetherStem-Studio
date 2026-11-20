@@ -29,7 +29,7 @@
 
 ### Step 1: Clone or Download the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/AetherStem-Studio.git](https://github.com/YOUR_USERNAME/AetherStem-Studio.git)
+git clone https://github.com/abhijeetvinkare/AetherStem-Studio-Git.git
 cd AetherStem-Studio
 ```
 *(Or click **Code → Download ZIP** on GitHub and extract the folder.)*
